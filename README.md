@@ -12,6 +12,6 @@ git clone https://github.com/Old-Clone/Dogar.git
 
 cd Dogar
 
-python insta.py
+python Insta.py
 
 python Ali.py
